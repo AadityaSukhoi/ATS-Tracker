@@ -69,10 +69,8 @@ We welcome contributions to improve ATS-Tracker! Please follow these steps to co
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Acknowledgements
-
-Special thanks to Kunal Kishore and Mohit Malani from Skillcred for their guidance.
+## LinkedIn Post link
+https://www.linkedin.com/feed/update/urn:li:activity:7223167798754041856/
 
 ---
 
-Feel free to adjust any sections as needed!
