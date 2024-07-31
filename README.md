@@ -70,7 +70,6 @@ We welcome contributions to improve ATS-Tracker! Please follow these steps to co
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## LinkedIn Post link
-https://www.linkedin.com/feed/update/urn:li:activity:7223167798754041856/
-
+https://www.linkedin.com/feed/update/urn:li:activity:7224533966802804739/
 ---
 
