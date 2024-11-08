@@ -5,6 +5,12 @@
 
 Welcome to the ATS-Tracker repository! This project is a powerful LLM-based tool designed to analyze resumes, calculate ATS (Applicant Tracking System) scores, and match job descriptions (JD) with resumes.
 
+
+## DEMO
+
+https://github.com/user-attachments/assets/cebbaffd-09bf-4ae8-b52a-f2e47ca3affc
+
+
 ## Table of Contents
 
 - [Features](#features)
